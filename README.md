@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="" rel="noopener">
-  
   <img width=400px src="./static/images/logo-landing.gif" alt="Tarantula-spider"><br>
  <img width=400px src="./static/images/logo-text.png" alt="Tarantula-text"></a>
 </p>
